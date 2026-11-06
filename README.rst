@@ -1,3 +1,10 @@
+Portfolio engineering notes
+===========================
+
+Study fork curated for abusanaevdias. Original project: scikit-learn/scikit-learn.
+See `engineering notes <ENGINEERING_NOTES.md>`_ for scope and trade-offs.
+Original authors, license and source documentation are retained.
+
 .. -*- mode: rst -*-
 
 |GitHubActions| |Codecov| |CircleCI| |Nightly wheels| |Ruff| |PythonVersion| |PyPI| |DOI| |Benchmark|
